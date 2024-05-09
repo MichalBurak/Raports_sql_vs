@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-IE3S21B\SQLEXPRESS;Initial Catalog=Reports</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>81d36b44-f2da-4498-b9e5-b29fd8103c26</DataSourceID>
+</RptDataSource>
